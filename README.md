@@ -1,6 +1,9 @@
 # 4NP1
-##### Pascal
+
+Pythagorean Prime Factor calculator written in Pascal.
+
 Finds all Pythagorean Primes less than a given integer and factors them.
+
 Pythagorean Primes are primes of the form (4 * n) + 1.
 
 Compile: 
@@ -8,6 +11,7 @@ Compile:
 
 Usage: 
 `./4np1 > [Output File]`
+or
 `echo [n] | ./4np1 > [Output File]`
 
 After launch enter a number, n, and 4np1 will calculate all primes less than n.
