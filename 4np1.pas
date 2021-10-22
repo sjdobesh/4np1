@@ -1,5 +1,4 @@
-(* Author: Samuel Dobesh   *)
-(* Class: CSCI 512, Meehan *)
+(* Author: Sam Dobesh      *)
 (* Due Date: Fri, Jan 29th *)
 (* Desc: Prime factorizer  *)
 (* implemented in pascal.  *)
